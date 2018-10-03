@@ -1,8 +1,6 @@
 # Golang AlbumArt
 Simple album art grabbing library that grabs album artwork from iTunes Store
 
-Feel free to send PR and contribute
-
 ## Get the package
 `go get github.com/arjndr/albumart.go`
 
