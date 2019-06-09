@@ -1,5 +1,5 @@
 # Golang AlbumArt
-[![Donatecoins](http://donatecoins.org/btc/1HeMeMU2qUFDRZpRQMJ2v27Dw3h3gShJ5b.svg)](http://donatecoins.org/btc/1HeMeMU2qUFDRZpRQMJ2v27Dw3h3gShJ5b)
+[![Donatecoins](http://donatecoins.org/btc/1G4Aai7RiQeUnoHEzEUhzQnkxB2sa4DfqJ.svg)](http://donatecoins.org/btc/1G4Aai7RiQeUnoHEzEUhzQnkxB2sa4DfqJ)
 
 Simple album art grabbing library that grabs album artwork from iTunes Store
 
